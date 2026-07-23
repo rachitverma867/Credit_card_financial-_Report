@@ -1,4 +1,4 @@
 Credit Card Transaction & Customer Dashboard. 
 Project Overview: This project is an interactive Credit Card Transaction and Customer Dashboard developed using SQL and Power BI to analyze customer behavior, transaction trends, and business performance. 
-Project Workflow: Raw data was extracted from a SQL database using SQL queries, then imported into Power BI. Further data cleaning and transformation were done using Power Query, calculated columns and DAX measures were created, and relationships between tables were modeled. Two interactive dashboards were designed — Credit Card Transaction Dashboard and Credit Card Customer Dashboard, using KPIs, charts, slicers, and filters for interactive insights. 
-Tools & Technologies: SQL, Power BI, Power Query, DAX, Data Modeling.
+Project Workflow: Raw data was extracted from a SQL database using SQL queries, then imported into Power BI. Further data cleaning and transformation were done using Power Query, calculated columns and DAX measures were created. Two interactive dashboards were designed — Credit Card Transaction Dashboard and Credit Card Customer Dashboard, using KPIs, charts, slicers, and filters for interactive insights. 
+Tools & Technologies: SQL, Power BI, Power Query, DAX.
